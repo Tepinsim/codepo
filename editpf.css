@@ -1,0 +1,1244 @@
+.editpf-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.editpf-edit {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: #16141c;
+}
+.editpf-materialsymbolsaddcircleoutline {
+  top: 632px;
+  left: 336px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.editpf-rectangle1062 {
+  top: 78px;
+  left: 221px;
+  width: 832px;
+  height: 214px;
+  position: absolute;
+  border-color: transparent;
+}
+.editpf-group30 {
+  top: 381px;
+  left: 134px;
+  width: 86px;
+  height: 33px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-folder {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.editpf-edit1 {
+  top: 3px;
+  left: 56px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.editpf-rectangle1055 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 76px;
+  position: absolute;
+  border-color: transparent;
+}
+.editpf-frame4781824alarmalertattentionbellclockicon1 {
+  top: 24px;
+  left: 1300px;
+  width: 30px;
+  height: 33px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.editpf-layer2 {
+  top: 3.09375px;
+  left: 3.749997854232788px;
+  width: 22.500112533569336px;
+  height: 26.8125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-vector {
+  top: 21.65625px;
+  left: 7.500001907348633px;
+  width: 7px;
+  height: 5px;
+  position: absolute;
+}
+.editpf-vector01 {
+  top: 0px;
+  left: 8.437501907348633px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+.editpf-vector02 {
+  top: 2.0625px;
+  left: -1.8874804652568855e-7px;
+  width: 23px;
+  height: 22px;
+  position: absolute;
+}
+.editpf-navlink {
+  display: contents;
+}
+.editpf-frame {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 33px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+  background-color: transparent;
+}
+.editpf-group6 {
+  top: 20px;
+  left: 1375px;
+  width: 53.31804656982422px;
+  height: 37px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-group4 {
+  top: 0px;
+  left: 0px;
+  width: 37.83863067626953px;
+  height: 37px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-group3 {
+  top: 4.352941036224365px;
+  left: 0px;
+  width: 34.39875411987305px;
+  height: 32.64706039428711px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-frame1 {
+  top: 0px;
+  left: 0px;
+  width: 34.39875411987305px;
+  height: 32.64706039428711px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 1000px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.editpf-group2 {
+  top: -8px;
+  left: -5px;
+  width: 40px;
+  height: 52px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-navlink1 {
+  display: contents;
+}
+.editpf-pf {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 52px;
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.editpf-group72 {
+  top: 25px;
+  left: 499px;
+  width: 284.84014892578125px;
+  height: 29px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-text {
+  color: rgba(255, 255, 255, 1);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editpf-text02 {
+  top: 1px;
+  left: 158.11993408203125px;
+  color: rgba(255, 255, 255, 1);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editpf-group2247 {
+  top: 26px;
+  left: 38px;
+  width: 213px;
+  height: 53px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-text04 {
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editpf-group70 {
+  top: 358px;
+  left: 1072.9998779296875px;
+  width: 340px;
+  height: 76px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-group54 {
+  top: 0px;
+  left: 0px;
+  width: 340px;
+  height: 76px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-text06 {
+  color: rgba(194, 207, 217, 1);
+  width: 212px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editpf-text08 {
+  top: 28.999755859375px;
+  left: 2.0297324657440186px;
+  color: rgba(194, 207, 217, 1);
+  width: 181px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editpf-group84 {
+  top: 252px;
+  left: 534px;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-uiu-kevin-putrayudha-naserwan2 {
+  top: 0px;
+  left: 0px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 500px;
+}
+.editpf-group65 {
+  top: 76px;
+  left: 23px;
+  width: 1215px;
+  height: 948px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-mdiaboutcircleoutline {
+  top: 132px;
+  left: 14px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.editpf-materialsymbolssearch {
+  top: 53px;
+  left: 15px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.editpf-epsetting {
+  top: 498px;
+  left: 1154px;
+  width: 61px;
+  height: 59px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.editpf-navlink2 {
+  display: contents;
+}
+.editpf-overview {
+  top: 53px;
+  left: 9px;
+  width: 136px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  text-decoration: none;
+}
+.editpf-text10 {
+  left: 41.67741775512695px;
+  color: rgba(255, 255, 255, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editpf-packages {
+  top: 132px;
+  left: 14px;
+  width: 120px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.editpf-text12 {
+  left: 35px;
+  color: rgba(255, 255, 255, 1);
+  width: 85px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editpf-navlink3 {
+  display: contents;
+}
+.editpf-stars {
+  top: 90px;
+  left: 0px;
+  width: 113px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  text-decoration: none;
+}
+.editpf-text14 {
+  left: 48.79545593261719px;
+  color: rgba(255, 255, 255, 1);
+  width: 64px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editpf-vector5 {
+  top: 948px;
+  left: 197.5px;
+  width: 948px;
+  height: 0px;
+  position: absolute;
+}
+.editpf-group2250 {
+  top: 166px;
+  left: 37px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-vector03 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.editpf-rectangle25 {
+  top: 959px;
+  left: 35px;
+  width: 156px;
+  height: 49px;
+  position: absolute;
+}
+.editpf-vector04 {
+  top: 973.152587890625px;
+  left: 146.134765625px;
+  width: 18px;
+  height: 20px;
+  position: absolute;
+}
+.editpf-text16 {
+  top: 968.09814453125px;
+  left: 61.5087890625px;
+  color: rgba(255, 255, 255, 1);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editpf-group2260 {
+  top: 303px;
+  left: 874px;
+  width: 164px;
+  height: 54px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-group2262 {
+  top: 0px;
+  left: 0px;
+  width: 164px;
+  height: 54px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+}
+.editpf-group14 {
+  top: 89px;
+  left: 296px;
+  width: 713px;
+  height: 521px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-group2263 {
+  top: 0px;
+  left: 0px;
+  width: 713px;
+  height: 521px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-text18 {
+  top: 385px;
+  left: 263px;
+  color: rgba(194, 207, 217, 1);
+  width: 231px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editpf-text20 {
+  top: 420px;
+  left: 278px;
+  color: rgba(194, 207, 217, 1);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editpf-text22 {
+  left: 651px;
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editpf-text24 {
+  top: 345px;
+  left: 398px;
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editpf-text26 {
+  top: 505px;
+  color: rgba(255, 255, 255, 1);
+  width: 651px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editpf-text28 {
+  top: 461px;
+  left: 297px;
+  color: rgba(255, 255, 255, 0.4300000071525574);
+  width: 90px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.editpf-vector05 {
+  top: 678px;
+  left: 282px;
+  width: 50px;
+  height: 40px;
+  position: absolute;
+}
+.editpf-vector06 {
+  top: 761px;
+  left: 282px;
+  width: 50px;
+  height: 40px;
+  position: absolute;
+}
+.editpf-text30 {
+  top: 686px;
+  left: 365px;
+  color: rgba(255, 255, 255, 1);
+  width: 388px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editpf-text32 {
+  top: 769px;
+  left: 365px;
+  color: rgba(255, 255, 255, 1);
+  width: 388px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editpf-vector07 {
+  top: 884px;
+  left: 287px;
+  width: 40px;
+  height: 50px;
+  position: absolute;
+}
+.editpf-text34 {
+  top: 897px;
+  left: 369px;
+  color: rgba(255, 255, 255, 1);
+  width: 254px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editpf-group22621 {
+  top: 150px;
+  left: 1073px;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-uiu-kevin-putrayudha-naserwan21 {
+  top: 0px;
+  left: 0px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 500px;
+}
+.editpf-group67 {
+  top: 108.375px;
+  left: 132.7501983642578px;
+  width: 15.000000953674316px;
+  height: 15.000001907348633px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.editpf-ellipse4 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  border-color: rgba(165, 166, 168, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.editpf-image21780221 {
+  top: 4.125px;
+  left: 3.9167327880859375px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+  border-color: transparent;
+}
+.editpf-jamwrite {
+  top: 89px;
+  left: 981px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.editpf-jamwrite1 {
+  top: 434px;
+  left: 728px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.editpf-jamwrite2 {
+  top: 901px;
+  left: 973px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.editpf-jamwrite3 {
+  top: 556px;
+  left: 634px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.editpf-icbaselinedelete {
+  top: 776px;
+  left: 970px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.editpf-group2255 {
+  top: 664px;
+  left: 259px;
+  width: 764px;
+  height: 72px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: #9e00ff;
+  border-style: ridge;
+  border-width: 1px;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+}
+.editpf-icbaselinedelete1 {
+  top: 24px;
+  left: 711px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.editpf-group2264 {
+  top: 747px;
+  left: 259px;
+  width: 764px;
+  height: 72px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: #9e00ff;
+  border-style: ridge;
+  border-width: 1px;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+}
+.editpf-group22631 {
+  top: 873px;
+  left: 261px;
+  width: 764px;
+  height: 72px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: #9e00ff;
+  border-style: ridge;
+  border-width: 1px;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+}
+.editpf-text36 {
+  top: 843px;
+  left: 262px;
+  color: rgba(165, 166, 168, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editpf-text38 {
+  top: 629px;
+  left: 261px;
+  color: rgba(165, 166, 168, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editpf-vector08 {
+  top: 896px;
+  left: 297px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.editpf-vector09 {
+  top: 200.5px;
+  left: 1238px;
+  width: 12px;
+  height: 9px;
+  position: absolute;
+}
+.editpf-text40 {
+  top: 197px;
+  left: 1256.45849609375px;
+  color: rgba(255, 255, 255, 1);
+  width: 116px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editpf-vector10 {
+  top: 219.97509765625px;
+  left: 1241.458984375px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.editpf-vector11 {
+  top: 218px;
+  left: 1239.45849609375px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+}
+.editpf-text42 {
+  top: 217px;
+  left: 1252.23291015625px;
+  color: rgba(255, 255, 255, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.editpf-text44 {
+  top: 100px;
+  left: 1081px;
+  color: rgba(165, 166, 168, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
